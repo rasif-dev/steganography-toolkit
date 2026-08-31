@@ -33,7 +33,7 @@ A Python toolkit that encrypts secret messages using Fernet (AES-128-CBC + HMAC)
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/steganography-toolkit.git
+git clone https://github.com/rasif-dev/steganography-toolkit.git
 cd steganography-toolkit
 pip install -r requirements.txt
 python main.py
@@ -121,7 +121,7 @@ For a detailed analysis, see `Project_Report.pdf`.
 
 **Raheel Asif**  
 Computer Science @ UNSW Sydney (WAM: 76.4, Distinction)  
-[LinkedIn](https://linkedin.com/in/[YOUR_LINKEDIN]) | [GitHub](https://github.com/[YOUR_USERNAME])
+[LinkedIn](https://linkedin.com/in/rasif-dev) | [GitHub](https://github.com/rasif-dev)
 
 ---
 
