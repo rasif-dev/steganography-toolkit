@@ -85,7 +85,7 @@ steganography-toolkit/
 ├── audioSteg.py         # Audio steganography (LSB in WAV samples)
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file
-└── Project_Report.pdf   # Comprehensive report (history, design, threat model)
+└── Project Report.pdf   # Comprehensive report (history, design, threat model)
 ```
 
 ---
